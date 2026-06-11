@@ -169,16 +169,6 @@ Numbers you don't have are written as `[X%]`, `[N users]` — you replace them w
 
 ---
 
-### 🤝 Contributing
-
-PRs welcome! Ideas:
-- Add more language variants (Japanese, Spanish, French)
-- LinkedIn summary tailoring mode
-- Cover letter companion
-- ATS keyword density scoring
-- Coze / Dify deployment templates
-
----
 
 ### 📄 License
 
@@ -267,17 +257,6 @@ AI会帮你：
 | 需要个人简介板块？ | 是 / 否 |
 | 需要项目经历板块？ | 是 / 否（+ 几条） |
 | 每条经历几个bullet？ | 2 / 3 / 混合 |
-
----
-
-### 🙏 贡献
-
-欢迎PR！期待的功能：
-- 更多语言版本（日语、西班牙语）
-- LinkedIn简介定制模式
-- 求职信配套工具
-- ATS关键词密度评分
-- Coze / Dify 一键部署模板
 
 ---
 

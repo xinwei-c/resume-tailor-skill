@@ -19,6 +19,14 @@
 
 ## English
 
+### Basic Introduction
+When tailoring my resume, I kept running into the same frustration:existing tools couldn't accommodate my specific preferences. For instance, how many projects or work experiences to include, how many bullet points per entry, or how to handle line length. Moreover, as a Journalism background person, I have a particular aversion to orphan words and always want each line to fill at least three-quarters of the full width. So I tested different setups in .docx format with a 0.5-inch margin, and tuned the prompts so the AI writes bullets that naturally fit within that line range. If your content exceeds one page, the AI will flag which experiences to cut, so you stay in control rather than having to start over. The resume follows the STAR format and incorporates real data where available. One twist from the traditional approach: after discussing with a senior hiring manager, I found that leading with an achievement-first structure, which is "Achieved X... by...", tends to make experiences land stronger. This is an early release, validated on three resumes across different backgrounds. Feedback and testing reports are very welcome, I'd love to know if it works for you!
+
+### Prepartion
+- A master doc which contains all of your experiences (AI will choose the most proper one for you)
+- your target job description 
+
+
 ### ✨ What It Does
 
 This is a **prompt-based AI skill** that works with any major LLM. You provide:
@@ -180,6 +188,13 @@ MIT License — free to use, modify, and distribute.
 
 ## 中文说明
 
+### 基础介绍
+在定制简历的过程中，我发现市面上的工具总是无法满足我的具体需求—，比如想保留几段项目经历、几段工作经历，每段经历写几条bullet，排版上每行要怎么控制才好看。作为新闻专业的学生，我对一行只剩一两个字很不喜欢，并且希望每一行至少占满整行的四分之三。于是，我在.docx格式下测试了0.5英寸页边距的排版，通过调整提示词让AI写出的bullet自然贴合这个行宽范围。如果内容超出一页，AI会主动告诉你建议删除哪段经历，而不是让你自己去反复调整重来。同时，该简历skill采用STAR格式，有数据的地方会直接填入真实数字。和传统写法不同的是，在与一位资深招聘经理交流后，我发现以成就开头的结构，"实现了X……通过……"，往往能让经历更加突出、更有说服力。目前是初版，仅仅在三份不同背景的简历上完成了测试，因而非常欢迎大家试用并给我反馈，希望它对你有帮助！
+
+###准备
+- 一份包含所有经历的简历
+- 你的目标岗位描述
+
 ### ✨ 这是什么
 
 这是一个**基于提示词的AI简历定制工具**，适配所有主流大模型。你只需提供：
@@ -195,7 +210,7 @@ AI会帮你：
 
 **支持中文和英文输出。**
 
----
+
 
 ### 🤖 支持的平台
 

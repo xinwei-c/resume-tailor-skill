@@ -174,6 +174,7 @@ Every bullet follows this formula:
 
 ✅ `Grew enterprise ARR by 18% by launching a self-serve analytics dashboard adopted by 40+ accounts`  
 ✅ `通过为企业客户设计个性化新手引导流程将用户留存率提升18% （发现中文语境下用传统STAR更合适于是和英文稍有不同）` 
+
 ❌ `Responsible for improving the deployment process`  
 ❌ `负责优化部署流程`
 

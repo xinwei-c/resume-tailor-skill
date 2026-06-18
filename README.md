@@ -173,7 +173,7 @@ Every bullet follows this formula:
 ```
 
 ✅ `Grew enterprise ARR by 18% by launching a self-serve analytics dashboard adopted by 40+ accounts`  
-✅ `将用户留存率提升18%，通过为企业客户设计个性化新手引导流程`  
+✅ `通过为企业客户设计个性化新手引导流程将用户留存率提升18%`  ** 发现中文语境下用传统STAR更合适于是和英文稍有不同
 ❌ `Responsible for improving the deployment process`  
 ❌ `负责优化部署流程`
 
@@ -199,7 +199,7 @@ MIT License — free to use, modify, and distribute.
 - 同时，该简历skill采用STAR格式，有数据的地方会直接填入真实数字。和传统写法不同的是，在与一位资深招聘经理交流后，我发现以成就开头的结构，"实现了X……通过……"，往往能让经历更加突出、更有说服力。
 - 目前是初版，仅仅在三份不同背景的简历上完成了测试，因而非常欢迎大家试用并给我反馈，希望它对你有帮助！
 
-###准备
+### 准备
 - 一份包含所有经历的简历
 - 你的目标岗位描述
 
